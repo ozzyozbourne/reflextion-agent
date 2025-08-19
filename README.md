@@ -26,8 +26,6 @@ graph LR;
         classDef first fill-opacity:0
         classDef last fill:#bfb6fc
 ```
-[![udemy](https://img.shields.io/badge/LangGraph🦜🔗%20Udemy%20Course-%20Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langgraph/?couponCode=APRIL-2025)
-
 ## Features
 
 - **Self-Reflection**: Implements sophisticated reflection mechanisms for response improvement
